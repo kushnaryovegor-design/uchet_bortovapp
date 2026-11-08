@@ -1,2 +1,0 @@
-# uchet_bortovapp
-uchet
